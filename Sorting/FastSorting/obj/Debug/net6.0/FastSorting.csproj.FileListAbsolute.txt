@@ -1,0 +1,15 @@
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\bin\Debug\net6.0\FastSorting.exe
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\bin\Debug\net6.0\FastSorting.deps.json
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\bin\Debug\net6.0\FastSorting.runtimeconfig.json
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\bin\Debug\net6.0\FastSorting.dll
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\bin\Debug\net6.0\FastSorting.pdb
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\obj\Debug\net6.0\FastSorting.csproj.AssemblyReference.cache
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\obj\Debug\net6.0\FastSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\obj\Debug\net6.0\FastSorting.AssemblyInfoInputs.cache
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\obj\Debug\net6.0\FastSorting.AssemblyInfo.cs
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\obj\Debug\net6.0\FastSorting.csproj.CoreCompileInputs.cache
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\obj\Debug\net6.0\FastSorting.dll
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\obj\Debug\net6.0\refint\FastSorting.dll
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\obj\Debug\net6.0\FastSorting.pdb
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\obj\Debug\net6.0\FastSorting.genruntimeconfig.cache
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\Sorting\FastSorting\obj\Debug\net6.0\ref\FastSorting.dll
