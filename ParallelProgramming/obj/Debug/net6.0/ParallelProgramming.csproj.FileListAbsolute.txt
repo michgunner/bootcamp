@@ -1,0 +1,15 @@
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\bin\Debug\net6.0\ParallelProgramming.exe
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\bin\Debug\net6.0\ParallelProgramming.deps.json
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\bin\Debug\net6.0\ParallelProgramming.runtimeconfig.json
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\bin\Debug\net6.0\ParallelProgramming.dll
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\bin\Debug\net6.0\ParallelProgramming.pdb
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\obj\Debug\net6.0\ParallelProgramming.csproj.AssemblyReference.cache
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\obj\Debug\net6.0\ParallelProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\obj\Debug\net6.0\ParallelProgramming.AssemblyInfoInputs.cache
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\obj\Debug\net6.0\ParallelProgramming.AssemblyInfo.cs
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\obj\Debug\net6.0\ParallelProgramming.csproj.CoreCompileInputs.cache
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\obj\Debug\net6.0\ParallelProgramming.dll
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\obj\Debug\net6.0\refint\ParallelProgramming.dll
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\obj\Debug\net6.0\ParallelProgramming.pdb
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\obj\Debug\net6.0\ParallelProgramming.genruntimeconfig.cache
+C:\Users\kront\OneDrive\Рабочий стол\домашки\Bootcamp\ParallelProgramming\obj\Debug\net6.0\ref\ParallelProgramming.dll
